@@ -34,11 +34,14 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 
 ## Assets
 
-### 3D Modeling and Tools 
+### 3D Modeling and Tools
+- [Articy Importer for Unreal](https://github.com/ArticySoftware/ArticyImporterForUnreal) - Articy Importer plugin for the Unreal Engine 4.
 - [ARTv1](https://www.unrealengine.com/marketplace/maya-tools) - Specialized tools and scripts for use with Autodesk Maya.
 - [ARTv2](https://github.com/EpicGames/ARTv2) - Experimental scripts for skeleton, rig, and animation authoring in Autodesk Maya.
   - Note: Your GitHub account must be a part of the [Epic Games organization](https://www.unrealengine.com/ue4-on-github) in order to view this.
 - [VelocityGridExport](https://www.orbolt.com/asset/Benny::UE4_velocitygridexporter) - A tool to export vector fields out of Houdini.
+- [ColorBlindSimulation](https://github.com/botman99/ColorBlindSimulation) - A Colorblind simulation postprocess material for Unreal Engine 4
+- [glTFForUE4](https://github.com/code4game/glTFForUE4) - glTF 2.0 Toolkit for UE4
 
 ### Analytics
 - [GameAnalytics Integration](https://github.com/GameAnalytics/GA-SDK-UNREAL) - Plugin for integrating with GameAnalytics services.
@@ -57,18 +60,27 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 - [VaRest](https://github.com/ufna/VaRest) - A simple REST API client with support for automatic JSON deserialization.
 
 ### Plugins
+- [Cover Generator](https://github.com/Deams51/CoverGenerator-UE4) - A dynamic cover point generator plugin for Unreal Engine 4.
 - [NVIDIA GameWorks](https://github.com/NvPhysX/UnrealEngine) - A fork of UE4 offering various integrations of NVIDIA's GameWorks package.
   - Note: Your GitHub account must be a part of the [Epic Games organization](https://www.unrealengine.com/ue4-on-github) in order to view this.
+  4.7.
+- [prefabricator-ue4](https://github.com/coderespawn/prefabricator-ue4) - Create Prefabs in Unreal Engine 4
+- [RuntimeMeshComponent](https://github.com/Koderz/RuntimeMeshComponent) - Plugin component for rendering runtime generated content.
+- [StreetMap](https://github.com/ue4plugins/StreetMap) - Import OpenStreetMap data into Unreal Engine 4
+- [tensorflow-ue4](https://github.com/getnamo/tensorflow-ue4) - TensorFlow plugin for Unreal Engine 4
 - [UE4GitPlugin](https://github.com/SRombauts/UE4GitPlugin) - Integrates Git as a source control provider.
-  - The initial release, v1, was integrated into the engine in engine version 4.7.
+  - The initial release, v1, was integrated into the engine in engine version
+- [UE4 RTS](https://github.com/npruehs/ue4-rts) - A Real-time strategy plugin and showcase for Unreal Engine 4.
 - [UE4PlasticPlugin](https://github.com/SRombauts/UE4PlasticPlugin) - Integrates PlasticSCM as a source control provider.
 - [UnrealFastNoise](https://github.com/midgen/UnrealFastNoise) - A runtime noise generation plugin based on the excellent [FastNoise from Auburns](https://github.com/Auburns/FastNoise).
+- [UnrealCV](https://github.com/unrealcv/unrealcv) - Connecting Computer Vision to Unreal Engine
 
 ### Sample Projects
 - [Epic Games' Learning Resources](docs/epicsamples.md) - Sample content and projects provided by Epic Games.
 - [Unreal VR Template C++ Sample](https://github.com/sclark39/UE-VR-Code-Sample) - Reimplementation of the UE4 VR template in `C++`.
 
 ### Scripting
+- [LuaMachine](https://github.com/rdeioris/LuaMachine) - Plugin for integrating Lua as a scripting language.
 - [SkookumScript](http://skookumscript.com/unreal/) - Plugin for integrating SkookumScript as a scripting language.
 - [UETorch](https://github.com/facebook/UETorch) - Plugin for integrating Lua/Torch scripts for use with Torch, a scientific computing framework.
 - [Unreal.js](https://github.com/ncsoft/Unreal.js) - Plugin for integrating JavaScript as a scripting language.
@@ -78,9 +90,14 @@ Inspired by [awesome-unity](https://github.com/RyanNielson/awesome-unity),
 - [BLUI](https://github.com/AaronShea/BLUI) - Plugin for authoring UI elements using HTML. Powered by Chromium.
 
 ### Utilities
+- [AutoSizeComments](https://github.com/fpwong/AutoSizeComments) - Plugin for Unreal Engine 4 that adds auto resizing comment boxes
 - [Joy Machine's Repo of _Things_](https://github.com/joymachinegames/joymachine-public) - Collection of modular gameplay scripts for UE4 and tools relating to game development.
 - [UE4RenderDocPlugin](https://github.com/Temaran/UE4RenderDocPlugin) - Plugin for integrating suppport for Renderdoc, a graphics debugging tool.
 - [UE4 Console Variables and Commands](http://www.kosmokleaner.de/ownsoft/UE4CVarBrowser.html) - A solid list of the CVars available in UE4 with decent explanations of each.
+- [ZipUtility-ue4](https://github.com/getnamo/ZipUtility-ue4) - Event driven 7zip utility plugin for Unreal Engine 4
+- [UModel](https://github.com/gildor2/UModel) - Unreal Engine Model Viewer (UE Viewer).
+- [ue4-mp-downloader](https://github.com/Allar/ue4-mp-downloader) - Shell utility to download owned assets from the UE4 marketplace.
+- [jenkins-ue4](https://github.com/skymapgames/jenkins-ue4) - Automated Unreal Engine 4 Project Builds
 
 ## Resources
 
